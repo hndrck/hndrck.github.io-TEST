@@ -6,28 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
-email: your-email@domain.com
+title: Brian Hendrick
+email: b.r.hendrick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Agile Practitioner - Product Manager - Technology Ethicist
+baseurl:  # the subpath of your site, e.g. /blog
+url: "http://hndrck.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
-#instagram_username: beyonce
+twitter_username: rhymeswithzion
+github_username:  hndrck
+facebook_username: brianhendrick
+instagram_username: rhymeswithzion
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
 #skype_username: echo123
-#linkedin_url: https://
+linkedin_url: https://www.linkedin.com/in/hendrickbrian/
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: Born in Toronto, Ontario, Canada
+address_city: Based in London, United Kingdom
+
 
 # Build settings
 markdown: kramdown
