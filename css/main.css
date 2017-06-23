@@ -240,7 +240,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: #0f7864;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -347,7 +347,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: ##188abc;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -373,7 +373,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #000000;
+    background-color: #323232;
 }
 
 .btn-social {
