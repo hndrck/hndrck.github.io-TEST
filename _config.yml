@@ -13,6 +13,14 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://hndrck.github.io" # the base hostname & protocol for your site
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ffffff #80B3FF
+  primary-rgb: 000000 #"128,179,255"
+  secondary: f5f5f5 #FD6E8A
+  secondary-dark: 080808 #A2122F
+
+
 # Social media profiles - feel free to add more here
 twitter_username: rhymeswithzion
 github_username:  hndrck
