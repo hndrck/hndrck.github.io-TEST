@@ -75,35 +75,6 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
-hr.img/rwz-icon.svg
-{
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-}
-
-hr.img/rwz-icon.svg:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
-}
-
-
-hr.img/rwz-icon.svg {
-    border-color: #2c3e50;
-}
-
-hr.img/rwz-icon.svg {
-    color: #2c3e50;
-    background-color: #fff;
-}
 .img-centered {
     margin: 0 auto;
 }
@@ -111,7 +82,7 @@ hr.img/rwz-icon.svg {
 header {
     text-align: center;
     color: #fff;
-    background: #0f7864;
+    background: #023220
 }
 
 header .container {
@@ -347,7 +318,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: ##188abc;
+    color: #A2D0E4;
 }
 
 form .row:first-child .floating-label-form-group {
