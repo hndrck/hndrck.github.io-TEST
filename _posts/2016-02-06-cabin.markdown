@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cabin"
+title:  Work
 img: img/portfolio/cabin.png
 modalID: modalCabin
 category: Design
