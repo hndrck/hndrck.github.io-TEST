@@ -48,7 +48,7 @@ hr.triangle-top-primary {
 
 hr.triangle-top-light:after,
 hr.triangle-top-primary:after {
-    content: "\f0d8";
+    content: "\f1b3";
     display: inline-block;
     position: relative;
     top: -.8em;
