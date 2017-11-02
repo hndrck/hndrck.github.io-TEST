@@ -17,7 +17,7 @@ url: "http://hndrck.github.io" # the base hostname & protocol for your site
 color:
   primary: ffffff #80B3FF
   primary-rgb: 000000 #"128,179,255"
-  secondary: fff #FD6E8A
+  secondary: f5f5f5 #FD6E8A
   secondary-dark: 080808 #A2122F
 
 
